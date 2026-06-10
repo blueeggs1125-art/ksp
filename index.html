@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>KARDS 商店</title>
+
+<style>
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    background:#f4f6f8;
+    font-family:"Microsoft YaHei",sans-serif;
+    padding:15px;
+}
+
+h1{
+    text-align:center;
+    margin-bottom:20px;
+    font-size:28px;
+}
+
+.toolbar{
+    max-width:1200px;
+    margin:auto;
+    margin-bottom:20px;
+}
+
+select{
+    width:100%;
+    padding:12px;
+    border:none;
+    border-radius:10px;
+    background:white;
+    box-shadow:0 2px 8px rgba(0,0,0,.08);
+    font-size:15px;
+}
+
+.grid{
+    max-width:1200px;
+    margin:auto;
+
+    display:grid;
+    grid-template-columns:repeat(auto-fill,minmax(280px,1fr));
+    gap:15px;
+}
+
+.card{
+    background:white;
+    border-radius:12px;
+    overflow:hidden;
+    box-shadow:0 3px 10px rgba(0,0,0,.08);
+    transition:.2s;
+}
+
+.card:hover{
+    transform:translateY(-2px);
+}
+
+.card img{
+    width:100%;
+    height:180px;
+    object-fit:cover;
+    display:block;
+}
+
+.card-body{
+    padding:15px;
+}
+
+.title{
+    font-size:17px;
+    font-weight:bold;
+    margin-bottom:10px;
+}
+
+.price{
+    color:#e74c3c;
+    font-size:20px;
+    font-weight:bold;
+    margin-bottom:10px;
+}
+
+.detail-btn{
+    width:100%;
+    padding:10px;
+    border:none;
+    border-radius:8px;
+    background:#3498db;
+    color:white;
+    cursor:pointer;
+    margin-top:10px;
+}
+
+.detail-btn:hover{
+    background:#2980b9;
+}
+
+.detail{
+    display:none;
+    margin-top:10px;
+    border-top:1px solid #eee;
+    padding-top:10px;
+    color:#555;
+    line-height:1.6;
+}
+
+.detail ul{
+    padding-left:18px;
+}
+
+.show{
+    display:block;
+}
+
+@media(max-width:600px){
+
+    body{
+        padding:10px;
+    }
+
+    h1{
+        font-size:22px;
+    }
+
+    .grid{
+        grid-template-columns:1fr;
+    }
+
+    .card img{
+        height:160px;
+    }
+}
+
+</style>
+</head>
+
+<body>
+
+<h1>KARDS 商店</h1>
+
+<div class="toolbar">
+    <select id="categorySelect">
+        <option value="all">全部商品</option>
+        <option value="featured">固定推荐</option>
+        <option value="group">分组商品</option>
+    </select>
+</div>
+
+<div id="storeContainer" class="grid"></div>
+
+<script>
+
+let allOffers = [];
+
+async function loadStore(){
+
+    try{
+
+        const response = await fetch("shop.json");
+        const data = await response.json();
+
+        allOffers = [];
+
+        if(data.alwaysFeatured?.offers){
+
+            data.alwaysFeatured.offers.forEach(item=>{
+                item._type="featured";
+                allOffers.push(item);
+            });
+
+        }
+
+        if(data.groups){
+
+            data.groups.forEach(group=>{
+
+                if(group.hidden) return;
+
+                group.offers.forEach(item=>{
+                    item._type="group";
+                    allOffers.push(item);
+                });
+
+            });
+
+        }
+
+        render("all");
+
+    }catch(err){
+
+        document.getElementById("storeContainer").innerHTML=
+        "<p>加载失败</p>";
+
+        console.error(err);
+
+    }
+
+}
+
+function render(type){
+
+    const container=document.getElementById("storeContainer");
+
+    container.innerHTML="";
+
+    let list=allOffers;
+
+    if(type!=="all"){
+        list=allOffers.filter(x=>x._type===type);
+    }
+
+    list.forEach(offer=>{
+
+        const image=
+        offer.mainImage ||
+        offer.thumbnail ||
+        offer.smallThumb ||
+        "";
+
+        const itemsHtml=(offer.items||[])
+        .map(i=>`<li>${i.qty} × ${(i.data?.itemType)||"未知"}</li>`)
+        .join("");
+
+        const price=
+        offer.diamonds
+        ? `${offer.diamonds} 钻石`
+        : offer.real
+        ? `￥${offer.real}`
+        : "免费";
+
+        const card=document.createElement("div");
+
+        card.className="card";
+
+        card.innerHTML=`
+        <img src="${image}" loading="lazy">
+
+        <div class="card-body">
+
+            <div class="title">
+                ${offer.title||"未知商品"}
+            </div>
+
+            <div class="price">
+                ${price}
+            </div>
+
+            <button class="detail-btn">
+                查看详情
+            </button>
+
+            <div class="detail">
+
+                <p>${offer.description||"暂无描述"}</p>
+
+                ${
+                    itemsHtml
+                    ? `
+                    <br>
+                    <strong>包含物品：</strong>
+                    <ul>${itemsHtml}</ul>
+                    `
+                    : ""
+                }
+
+            </div>
+
+        </div>
+        `;
+
+        const btn=card.querySelector(".detail-btn");
+        const detail=card.querySelector(".detail");
+
+        btn.onclick=()=>{
+
+            detail.classList.toggle("show");
+
+            btn.textContent=
+            detail.classList.contains("show")
+            ? "收起详情"
+            : "查看详情";
+
+        };
+
+        container.appendChild(card);
+
+    });
+
+}
+
+document
+.getElementById("categorySelect")
+.addEventListener("change",e=>{
+
+    render(e.target.value);
+
+});
+
+loadStore();
+
+</script>
+
+</body>
+</html>
