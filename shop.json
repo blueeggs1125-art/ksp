@@ -52,50 +52,8 @@
                 "bonus": null,
                 "bonusItems": null,
                 "checkoutId": null,
-                "description": "每个卡包内含：\n• 5 张国土阵线套装卡牌\n• 至少 1 张限定或更高稀有度卡牌\n\n国土阵线，KARDS 第 10 个大型扩展包，引入了 87 张全新卡牌以及来自预备卡池的一系列回归卡牌。本次扩展包将焦点转向战争后方，通过全新卡牌主题突出国家凝聚力。国土阵线还推出了鼓励统一战力的全新“协力”机制，以及新增核心词条子集“对战词条”：伏击、闪击、奋战、守护、重甲、冲击和烟幕。新增内容相辅相成，开启全新战术可能，为 KARDS 战场开启强势新维度。",
-                "diamonds": 399,
-                "discount": null,
-                "endDate": null,
-                "entitlementName": null,
-                "fulfilAfter": null,
-                "gold": null,
-                "items": [
-                    {
-                        "data": {
-                            "cardCount": 5,
-                            "cardSet": "Homefront",
-                            "faction": null,
-                            "guaranteedGoldCards": 0,
-                            "itemType": "pack",
-                            "packId": null,
-                            "packIds": null,
-                            "rarityMin": {}
-                        },
-                        "qty": 30
-                    }
-                ],
-                "limit": 100,
-                "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/offer_30_packs___homefront/homefront_30_zoomout.jpg",
-                "offerId": 6809549,
-                "offerName": "offer_30_packs_-_homefront",
-                "priority": 8,
-                "purchased": null,
-                "real": null,
-                "slotType": null,
-                "slotValue": null,
-                "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/",
-                "startDate": null,
-                "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/offer_30_packs___homefront/homefront_30_zoomout.jpg",
-                "timed": null,
-                "title": "30 个卡包 - 国土阵线"
-            },
-            {
-                "adContext": null,
-                "bonus": null,
-                "bonusItems": null,
-                "checkoutId": null,
-                "description": "每个卡包内含：\n• 7 张国土阵线套装卡牌\n• 至少 2 张限定或更高稀有度卡牌\n• 至少 1 张特殊或精英卡牌\n• 有几率掉落万能牌和闪卡\n\n国土阵线，KARDS 第 10 个大型扩展包，引入了 87 张全新卡牌以及来自预备卡池的一系列回归卡牌。本次扩展包将焦点转向战争后方，通过全新卡牌主题突出国家凝聚力。国土阵线还推出了鼓励统一战力的全新“协力”机制，以及新增核心词条子集“对战词条”：伏击、闪击、奋战、守护、重甲、冲击和烟幕。新增内容相辅相成，开启全新战术可能，为 KARDS 战场开启强势新维度。",
-                "diamonds": 1200,
+                "description": "每个卡包内含：\n• 7 张核心卡牌\n• 至少 2 张限定或更高稀有度卡牌\n• 至少 1 张特殊或精英卡牌\n• 可能掉落万能牌和闪卡\n\n核心卡包包含您起步所需的全部卡牌。核心卡池收录了所有主国（德国、英国、苏联、美国和日本）以及所有盟国（法国、意大利、波兰和芬兰）的卡牌。军官卡包内含更多卡牌和更高稀有度的卡牌。",
+                "diamonds": 850,
                 "discount": null,
                 "endDate": null,
                 "entitlementName": null,
@@ -105,7 +63,7 @@
                     {
                         "data": {
                             "cardCount": 7,
-                            "cardSet": "Homefront",
+                            "cardSet": "Core",
                             "faction": null,
                             "guaranteedGoldCards": 0,
                             "itemType": "pack",
@@ -113,23 +71,23 @@
                             "packIds": null,
                             "rarityMin": {}
                         },
-                        "qty": 30
+                        "qty": 20
                     }
                 ],
-                "limit": 100,
-                "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/offer_30_officer_packs___homefront/homefront_officer30.jpg",
-                "offerId": 6809547,
-                "offerName": "offer_30_officer_packs_-_homefront",
-                "priority": 9,
+                "limit": 1,
+                "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/offer_20_officer_packs_-_core_-_backup_offer/core_packs_officer_20_v2_1.jpg",
+                "offerId": 6772326,
+                "offerName": "offer_20_officer_packs_-_core_-_backup_offer",
+                "priority": 1002,
                 "purchased": null,
                 "real": null,
                 "slotType": null,
                 "slotValue": null,
-                "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/",
+                "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/offer_20_officer_packs_-_core_-_backup_offer/core_packs_officer_20_v2_1.jpg",
                 "startDate": null,
-                "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/offer_30_officer_packs___homefront/homefront_officer30.jpg",
+                "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/offer_20_officer_packs_-_core_-_backup_offer/core_packs_officer_20_v2_1.jpg",
                 "timed": null,
-                "title": "30 个军官卡包 - 国土阵线"
+                "title": "20个军官卡包 - 核心套装"
             }
         ],
         "startDate": "2018-01-01T00:00:00"
@@ -328,14 +286,7 @@
                 {
                     "adContext": null,
                     "bonus": null,
-                    "bonusItems": [
-                        {
-                            "data": {
-                                "itemType": "diamonds"
-                            },
-                            "qty": 155
-                        }
-                    ],
+                    "bonusItems": null,
                     "checkoutId": null,
                     "description": "一杯钻石具有优惠，内含380颗钻石。钻石可以用于在商店中购买卡包、捆绑包特惠和装备。",
                     "diamonds": null,
@@ -379,14 +330,7 @@
                 {
                     "adContext": null,
                     "bonus": null,
-                    "bonusItems": [
-                        {
-                            "data": {
-                                "itemType": "diamonds"
-                            },
-                            "qty": 260
-                        }
-                    ],
+                    "bonusItems": null,
                     "checkoutId": null,
                     "description": "一帽钻石非常合算，内含570颗钻石。钻石可以用于在商店中购买卡包、捆绑包特惠和装备。",
                     "diamonds": null,
@@ -430,14 +374,7 @@
                 {
                     "adContext": null,
                     "bonus": null,
-                    "bonusItems": [
-                        {
-                            "data": {
-                                "itemType": "diamonds"
-                            },
-                            "qty": 600
-                        }
-                    ],
+                    "bonusItems": null,
                     "checkoutId": null,
                     "description": "一箱钻石具有大幅优惠，内含1200颗钻石。钻石可以用于在商店中购买卡包、捆绑包特惠和装备。",
                     "diamonds": null,
@@ -936,349 +873,6 @@
             "startDate": "2025-03-20T11:00:00"
         },
         {
-            "endDate": "2099-01-01T00:00:00",
-            "group": 4,
-            "groupId": 2816,
-            "hidden": null,
-            "offers": [
-                {
-                    "adContext": null,
-                    "bonus": null,
-                    "bonusItems": null,
-                    "checkoutId": null,
-                    "description": "每个卡包内含：\n• 7 张国土阵线套装卡牌\n• 至少 2 张限定或更高稀有度卡牌\n• 至少 1 张特殊或精英卡牌\n• 有几率掉落万能牌和闪卡\n\n国土阵线，KARDS 第 10 个大型扩展包，引入了 87 张全新卡牌以及来自预备卡池的一系列回归卡牌。本次扩展包将焦点转向战争后方，通过全新卡牌主题突出国家凝聚力。国土阵线还推出了鼓励统一战力的全新“协力”机制，以及新增核心词条子集“对战词条”：伏击、闪击、奋战、守护、重甲、冲击和烟幕。新增内容相辅相成，开启全新战术可能，为 KARDS 战场开启强势新维度。",
-                    "diamonds": 850,
-                    "discount": null,
-                    "endDate": null,
-                    "entitlementName": null,
-                    "fulfilAfter": null,
-                    "gold": null,
-                    "items": [
-                        {
-                            "data": {
-                                "cardCount": 7,
-                                "cardSet": "Homefront",
-                                "faction": null,
-                                "guaranteedGoldCards": 0,
-                                "itemType": "pack",
-                                "packId": null,
-                                "packIds": null,
-                                "rarityMin": {}
-                            },
-                            "qty": 20
-                        }
-                    ],
-                    "limit": null,
-                    "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/packs_20_officer_packs___homefront/homefront_officer20cropped.jpg",
-                    "offerId": 6809543,
-                    "offerName": "packs_20_officer_packs_-_homefront",
-                    "priority": null,
-                    "purchased": null,
-                    "real": null,
-                    "slotType": null,
-                    "slotValue": null,
-                    "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/",
-                    "startDate": null,
-                    "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/packs_20_officer_packs___homefront/homefront_officer20cropped.jpg",
-                    "timed": null,
-                    "title": "20 个军官卡包 - 国土阵线"
-                }
-            ],
-            "startDate": "2025-11-27T09:00:00"
-        },
-        {
-            "endDate": "2099-01-01T00:00:00",
-            "group": 4,
-            "groupId": 2814,
-            "hidden": null,
-            "offers": [
-                {
-                    "adContext": null,
-                    "bonus": null,
-                    "bonusItems": null,
-                    "checkoutId": null,
-                    "description": "每个卡包内含：\n• 7 张国土阵线套装卡牌\n• 至少 2 张限定或更高稀有度卡牌\n• 至少 1 张特殊或精英卡牌\n• 有几率掉落万能牌和闪卡\n\n国土阵线，KARDS 第 10 个大型扩展包，引入了 87 张全新卡牌以及来自预备卡池的一系列回归卡牌。本次扩展包将焦点转向战争后方，通过全新卡牌主题突出国家凝聚力。国土阵线还推出了鼓励统一战力的全新“协力”机制，以及新增核心词条子集“对战词条”：伏击、闪击、奋战、守护、重甲、冲击和烟幕。新增内容相辅相成，开启全新战术可能，为 KARDS 战场开启强势新维度。",
-                    "diamonds": 43,
-                    "discount": null,
-                    "endDate": null,
-                    "entitlementName": null,
-                    "fulfilAfter": null,
-                    "gold": 330,
-                    "items": [
-                        {
-                            "data": {
-                                "cardCount": 7,
-                                "cardSet": "Homefront",
-                                "faction": null,
-                                "guaranteedGoldCards": 0,
-                                "itemType": "pack",
-                                "packId": null,
-                                "packIds": null,
-                                "rarityMin": {}
-                            },
-                            "qty": 1
-                        }
-                    ],
-                    "limit": null,
-                    "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/packs_1_officer_pack___homefront/homefront_officer1.jpg",
-                    "offerId": 6809538,
-                    "offerName": "packs_1_officer_pack_-_homefront",
-                    "priority": null,
-                    "purchased": null,
-                    "real": null,
-                    "slotType": null,
-                    "slotValue": null,
-                    "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/",
-                    "startDate": null,
-                    "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/packs_1_officer_pack___homefront/homefront_officer20cropped_frontpage.jpg",
-                    "timed": null,
-                    "title": "1 个军官卡包 - 国土阵线"
-                }
-            ],
-            "startDate": "2025-11-27T09:00:00"
-        },
-        {
-            "endDate": "2099-01-01T00:00:00",
-            "group": 4,
-            "groupId": 2813,
-            "hidden": null,
-            "offers": [
-                {
-                    "adContext": null,
-                    "bonus": null,
-                    "bonusItems": null,
-                    "checkoutId": null,
-                    "description": "每个卡包内含：\n• 5 张国土阵线套装卡牌\n• 至少 1 张限定或更高稀有度卡牌\n\n国土阵线，KARDS 第 10 个大型扩展包，引入了 87 张全新卡牌以及来自预备卡池的一系列回归卡牌。本次扩展包将焦点转向战争后方，通过全新卡牌主题突出国家凝聚力。国土阵线还推出了鼓励统一战力的全新“协力”机制，以及新增核心词条子集“对战词条”：伏击、闪击、奋战、守护、重甲、冲击和烟幕。新增内容相辅相成，开启全新战术可能，为 KARDS 战场开启强势新维度。",
-                    "diamonds": 280,
-                    "discount": null,
-                    "endDate": null,
-                    "entitlementName": null,
-                    "fulfilAfter": null,
-                    "gold": null,
-                    "items": [
-                        {
-                            "data": {
-                                "cardCount": 5,
-                                "cardSet": "Homefront",
-                                "faction": null,
-                                "guaranteedGoldCards": 0,
-                                "itemType": "pack",
-                                "packId": null,
-                                "packIds": null,
-                                "rarityMin": {}
-                            },
-                            "qty": 20
-                        }
-                    ],
-                    "limit": null,
-                    "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/packs_20_packs___homefront/homefront_20_zoomout.jpg",
-                    "offerId": 6809536,
-                    "offerName": "packs_20_packs_-_homefront",
-                    "priority": null,
-                    "purchased": null,
-                    "real": null,
-                    "slotType": null,
-                    "slotValue": null,
-                    "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/",
-                    "startDate": null,
-                    "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/packs_20_packs___homefront/homefront_20_zoomout.jpg",
-                    "timed": null,
-                    "title": "20 个卡包 - 国土阵线"
-                }
-            ],
-            "startDate": "2025-11-27T09:00:00"
-        },
-        {
-            "endDate": "2099-01-01T00:00:00",
-            "group": 4,
-            "groupId": 2812,
-            "hidden": null,
-            "offers": [
-                {
-                    "adContext": null,
-                    "bonus": null,
-                    "bonusItems": null,
-                    "checkoutId": null,
-                    "description": "每个卡包内含：\n• 5 张国土阵线套装卡牌\n• 至少 1 张限定或更高稀有度卡牌\n\n国土阵线，KARDS 第 10 个大型扩展包，引入了 87 张全新卡牌以及来自预备卡池的一系列回归卡牌。本次扩展包将焦点转向战争后方，通过全新卡牌主题突出国家凝聚力。国土阵线还推出了鼓励统一战力的全新“协力”机制，以及新增核心词条子集“对战词条”：伏击、闪击、奋战、守护、重甲、冲击和烟幕。新增内容相辅相成，开启全新战术可能，为 KARDS 战场开启强势新维度。",
-                    "diamonds": 98,
-                    "discount": null,
-                    "endDate": null,
-                    "entitlementName": null,
-                    "fulfilAfter": null,
-                    "gold": null,
-                    "items": [
-                        {
-                            "data": {
-                                "cardCount": 5,
-                                "cardSet": "Homefront",
-                                "faction": null,
-                                "guaranteedGoldCards": 0,
-                                "itemType": "pack",
-                                "packId": null,
-                                "packIds": null,
-                                "rarityMin": {}
-                            },
-                            "qty": 7
-                        }
-                    ],
-                    "limit": null,
-                    "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/packs_7_packs___homefront/homefront_7_zoomout.jpg",
-                    "offerId": 6809532,
-                    "offerName": "packs_7_packs_-_homefront",
-                    "priority": null,
-                    "purchased": null,
-                    "real": null,
-                    "slotType": null,
-                    "slotValue": null,
-                    "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/",
-                    "startDate": null,
-                    "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/packs_7_packs___homefront/homefront_7_zoomout.jpg",
-                    "timed": null,
-                    "title": "7 个卡包 - 国土阵线"
-                }
-            ],
-            "startDate": "2025-11-27T09:00:00"
-        },
-        {
-            "endDate": "2099-01-01T00:00:00",
-            "group": 4,
-            "groupId": 2811,
-            "hidden": null,
-            "offers": [
-                {
-                    "adContext": null,
-                    "bonus": null,
-                    "bonusItems": null,
-                    "checkoutId": null,
-                    "description": "每个卡包内含：\n• 5 张国土阵线套装卡牌\n• 至少 1 张限定或更高稀有度卡牌\n\n国土阵线，KARDS 第 10 个大型扩展包，引入了 87 张全新卡牌以及来自预备卡池的一系列回归卡牌。本次扩展包将焦点转向战争后方，通过全新卡牌主题突出国家凝聚力。国土阵线还推出了鼓励统一战力的全新“协力”机制，以及新增核心词条子集“对战词条”：伏击、闪击、奋战、守护、重甲、冲击和烟幕。新增内容相辅相成，开启全新战术可能，为 KARDS 战场开启强势新维度。",
-                    "diamonds": 14,
-                    "discount": null,
-                    "endDate": null,
-                    "entitlementName": null,
-                    "fulfilAfter": null,
-                    "gold": 100,
-                    "items": [
-                        {
-                            "data": {
-                                "cardCount": 5,
-                                "cardSet": "Homefront",
-                                "faction": null,
-                                "guaranteedGoldCards": 0,
-                                "itemType": "pack",
-                                "packId": null,
-                                "packIds": null,
-                                "rarityMin": {}
-                            },
-                            "qty": 1
-                        }
-                    ],
-                    "limit": null,
-                    "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/packs_1_pack___homefront/homefront_1_zoomout.jpg",
-                    "offerId": 6809527,
-                    "offerName": "packs_1_pack_-_homefront",
-                    "priority": null,
-                    "purchased": null,
-                    "real": null,
-                    "slotType": null,
-                    "slotValue": null,
-                    "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/",
-                    "startDate": null,
-                    "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/packs_1_pack___homefront/homefront_officer20cropped_frontpage.jpg",
-                    "timed": null,
-                    "title": "1 个卡包 - 国土阵线"
-                }
-            ],
-            "startDate": "2025-11-27T09:00:00"
-        },
-        {
-            "endDate": "2099-01-01T00:00:00",
-            "group": 4,
-            "groupId": 2815,
-            "hidden": null,
-            "offers": [
-                {
-                    "adContext": null,
-                    "bonus": null,
-                    "bonusItems": null,
-                    "checkoutId": null,
-                    "description": "每个卡包内含：\n• 7 张国土阵线套装卡牌\n• 至少 2 张限定或更高稀有度卡牌\n• 至少 1 张特殊或精英卡牌\n• 有几率掉落万能牌和闪卡\n\n国土阵线，KARDS 第 10 个大型扩展包，引入了 87 张全新卡牌以及来自预备卡池的一系列回归卡牌。本次扩展包将焦点转向战争后方，通过全新卡牌主题突出国家凝聚力。国土阵线还推出了鼓励统一战力的全新“协力”机制，以及新增核心词条子集“对战词条”：伏击、闪击、奋战、守护、重甲、冲击和烟幕。新增内容相辅相成，开启全新战术可能，为 KARDS 战场开启强势新维度。",
-                    "diamonds": 300,
-                    "discount": null,
-                    "endDate": null,
-                    "entitlementName": null,
-                    "fulfilAfter": null,
-                    "gold": null,
-                    "items": [
-                        {
-                            "data": {
-                                "cardCount": 7,
-                                "cardSet": "Homefront",
-                                "faction": null,
-                                "guaranteedGoldCards": 0,
-                                "itemType": "pack",
-                                "packId": null,
-                                "packIds": null,
-                                "rarityMin": {}
-                            },
-                            "qty": 7
-                        }
-                    ],
-                    "limit": null,
-                    "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/packs_7_officer_packs___homefront/homefront_officer7_zoomout.jpg",
-                    "offerId": 6809542,
-                    "offerName": "packs_7_officer_packs_-_homefront",
-                    "priority": null,
-                    "purchased": null,
-                    "real": null,
-                    "slotType": null,
-                    "slotValue": null,
-                    "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/",
-                    "startDate": null,
-                    "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/packs_7_officer_packs___homefront/homefront_officer7_zoomout.jpg",
-                    "timed": null,
-                    "title": "7 个军官卡包 - 国土阵线"
-                }
-            ],
-            "startDate": "2025-11-27T09:00:00"
-        },
-        {
-            "endDate": "2026-06-11T11:00:00",
-            "group": 1,
-            "groupId": 3802,
-            "hidden": null,
-            "offers": [
-                {
-                    "adContext": null,
-                    "bonus": null,
-                    "bonusItems": null,
-                    "checkoutId": null,
-                    "description": "现已开放预购：澳新风暴，KARDS 夏季扩展包，将于 2026 年 6 月 11 日抵达战场。本次扩展包将带来 88 张新牌，引入全新盟国阵营澳新军团。巧用新增预报机制，打出强力天气卡牌，开辟全新前线战术。\n\n抢先购买，立享 23% 折扣，获取 15 个澳新风暴军官卡包，外加一款卡背和一款精英头像！本次独家预购优惠将于 6 月 11 日截止。\n\n所有预购内容将于 6 月 11 日到账。",
-                    "diamonds": 500,
-                    "discount": null,
-                    "endDate": null,
-                    "entitlementName": null,
-                    "fulfilAfter": "2026-06-11T11:00:00",
-                    "gold": null,
-                    "items": [],
-                    "limit": 0,
-                    "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/offer_oceania_storm_pre_sale___14_officer_packs_cardback_portrait/oceaniastorm_presales_bigbundle_contentpopup-v2_comp.jpg",
-                    "offerId": 6842222,
-                    "offerName": "offer_oceania_storm_pre-sale_-_14_officer_packs+cardback+portrait",
-                    "priority": 4,
-                    "purchased": null,
-                    "real": null,
-                    "slotType": "discount",
-                    "slotValue": "23",
-                    "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/offer_oceania_storm_pre_sale___14_officer_packs_cardback_portrait/oceaniastorm_presales_bigbundle_shop-v2_comp.jpg",
-                    "startDate": null,
-                    "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/offer_oceania_storm_pre_sale___14_officer_packs_cardback_portrait/oceaniastorm_presales_bigbundle_shop-v2_comp.jpg",
-                    "timed": null,
-                    "title": "澳新风暴预购"
-                }
-            ],
-            "startDate": "2026-05-26T11:00:00"
-        },
-        {
             "endDate": "2026-07-01T00:00:00",
             "group": 6,
             "groupId": 2055,
@@ -1339,7 +933,7 @@
                     "offerId": 6794775,
                     "offerName": "battle_pass_06/26",
                     "priority": null,
-                    "purchased": null,
+                    "purchased": true,
                     "real": 80.0,
                     "slotType": null,
                     "slotValue": null,
@@ -1353,9 +947,9 @@
             "startDate": "2026-06-01T00:00:00"
         },
         {
-            "endDate": "2026-06-11T11:00:00",
-            "group": 1,
-            "groupId": 3843,
+            "endDate": "2099-01-01T00:00:00",
+            "group": 4,
+            "groupId": 3883,
             "hidden": null,
             "offers": [
                 {
@@ -1363,36 +957,490 @@
                     "bonus": null,
                     "bonusItems": null,
                     "checkoutId": null,
-                    "description": "现在购买加售预购卡包，立享 23% 折扣，还能获得一款普通澳新风格头像！本次预购特惠将于 6 月 11 日截止。\n\n优惠内含：\n2x 澳新风暴军官卡包\n3x 澳新风暴卡包\n1x 普通头像\n\n所有预购内容将于 6 月 11 日到账。",
+                    "description": "每个卡包内含：\n• 7 张澳新风暴套装卡牌\n• 至少 2 张限定或更高稀有度卡牌\n• 至少 1 张特殊或精英卡牌\n• 有几率掉落万能牌和闪卡\n\n澳新风暴，KARDS 第 11 个大型扩展包，部署 88 张新卡，外加一系列预备回归卡牌。该扩展包聚焦太平洋战场，引入全新盟国阵营澳新军团。澳新风暴还新增了预报机制，让您能够驾驭太平洋多变气候，解锁强力天气卡牌，进而主导战场局势。同时，日苏两国也终于在本次扩展包迎来了专属研发卡牌。调整您的战术，探索强力组合，运用全新战略重塑战场。",
+                    "diamonds": 850,
+                    "discount": null,
+                    "endDate": null,
+                    "entitlementName": null,
+                    "fulfilAfter": null,
+                    "gold": null,
+                    "items": [
+                        {
+                            "data": {
+                                "cardCount": 7,
+                                "cardSet": "OceaniaStorm",
+                                "faction": null,
+                                "guaranteedGoldCards": 0,
+                                "itemType": "pack",
+                                "packId": null,
+                                "packIds": null,
+                                "rarityMin": {}
+                            },
+                            "qty": 20
+                        }
+                    ],
+                    "limit": null,
+                    "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/packs_20_oceania_storm_officer_packs/oceaniastormofficer20.jpg",
+                    "offerId": 6846074,
+                    "offerName": "packs_20_oceania_storm_officer_packs",
+                    "priority": null,
+                    "purchased": null,
+                    "real": null,
+                    "slotType": null,
+                    "slotValue": null,
+                    "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/",
+                    "startDate": null,
+                    "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/packs_20_oceania_storm_officer_packs/oceaniastormofficer20.jpg",
+                    "timed": null,
+                    "title": "20 个澳新风暴军官卡包"
+                }
+            ],
+            "startDate": "2026-06-11T08:50:00"
+        },
+        {
+            "endDate": "2099-01-01T00:00:00",
+            "group": 4,
+            "groupId": 3884,
+            "hidden": null,
+            "offers": [
+                {
+                    "adContext": null,
+                    "bonus": null,
+                    "bonusItems": null,
+                    "checkoutId": null,
+                    "description": "每个卡包内含：\n• 7 张澳新风暴套装卡牌\n• 至少 2 张限定或更高稀有度卡牌\n• 至少 1 张特殊或精英卡牌\n• 有几率掉落万能牌和闪卡\n\n澳新风暴，KARDS 第 11 个大型扩展包，部署 88 张新卡，外加一系列预备回归卡牌。该扩展包聚焦太平洋战场，引入全新盟国阵营澳新军团。澳新风暴还新增了预报机制，让您能够驾驭太平洋多变气候，解锁强力天气卡牌，进而主导战场局势。同时，日苏两国也终于在本次扩展包迎来了专属研发卡牌。调整您的战术，探索强力组合，运用全新战略重塑战场。",
+                    "diamonds": 300,
+                    "discount": null,
+                    "endDate": null,
+                    "entitlementName": null,
+                    "fulfilAfter": null,
+                    "gold": null,
+                    "items": [
+                        {
+                            "data": {
+                                "cardCount": 7,
+                                "cardSet": "OceaniaStorm",
+                                "faction": null,
+                                "guaranteedGoldCards": 0,
+                                "itemType": "pack",
+                                "packId": null,
+                                "packIds": null,
+                                "rarityMin": {}
+                            },
+                            "qty": 7
+                        }
+                    ],
+                    "limit": null,
+                    "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/packs_7_oceania_storm_officer_packs/oceaniastormofficer7.jpg",
+                    "offerId": 6846077,
+                    "offerName": "packs_7_oceania_storm_officer_packs",
+                    "priority": null,
+                    "purchased": null,
+                    "real": null,
+                    "slotType": null,
+                    "slotValue": null,
+                    "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/",
+                    "startDate": null,
+                    "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/packs_7_oceania_storm_officer_packs/oceaniastormofficer7.jpg",
+                    "timed": null,
+                    "title": "7 个澳新风暴军官卡包"
+                }
+            ],
+            "startDate": "2026-06-11T08:50:00"
+        },
+        {
+            "endDate": "2099-01-01T00:00:00",
+            "group": 4,
+            "groupId": 3885,
+            "hidden": null,
+            "offers": [
+                {
+                    "adContext": null,
+                    "bonus": null,
+                    "bonusItems": null,
+                    "checkoutId": null,
+                    "description": "每个卡包内含：\n• 7 张澳新风暴套装卡牌\n• 至少 2 张限定或更高稀有度卡牌\n• 至少 1 张特殊或精英卡牌\n• 有几率掉落万能牌和闪卡\n\n澳新风暴，KARDS 第 11 个大型扩展包，部署 88 张新卡，外加一系列预备回归卡牌。该扩展包聚焦太平洋战场，引入全新盟国阵营澳新军团。澳新风暴还新增了预报机制，让您能够驾驭太平洋多变气候，解锁强力天气卡牌，进而主导战场局势。同时，日苏两国也终于在本次扩展包迎来了专属研发卡牌。调整您的战术，探索强力组合，运用全新战略重塑战场。",
+                    "diamonds": 43,
+                    "discount": null,
+                    "endDate": null,
+                    "entitlementName": null,
+                    "fulfilAfter": null,
+                    "gold": 330,
+                    "items": [
+                        {
+                            "data": {
+                                "cardCount": 7,
+                                "cardSet": "OceaniaStorm",
+                                "faction": null,
+                                "guaranteedGoldCards": 0,
+                                "itemType": "pack",
+                                "packId": null,
+                                "packIds": null,
+                                "rarityMin": {}
+                            },
+                            "qty": 1
+                        }
+                    ],
+                    "limit": null,
+                    "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/packs_1_oceania_storm_officer_pack/oceaniastormofficer1.jpg",
+                    "offerId": 6846083,
+                    "offerName": "packs_1_oceania_storm_officer_pack",
+                    "priority": null,
+                    "purchased": null,
+                    "real": null,
+                    "slotType": null,
+                    "slotValue": null,
+                    "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/",
+                    "startDate": null,
+                    "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/packs_1_oceania_storm_officer_pack/oceaniastormofficer20.jpg",
+                    "timed": null,
+                    "title": "1 个澳新风暴军官卡包"
+                }
+            ],
+            "startDate": "2026-06-11T08:51:00"
+        },
+        {
+            "endDate": "2099-01-01T00:00:00",
+            "group": 4,
+            "groupId": 3886,
+            "hidden": null,
+            "offers": [
+                {
+                    "adContext": null,
+                    "bonus": null,
+                    "bonusItems": null,
+                    "checkoutId": null,
+                    "description": "每个卡包内含：\n• 5 张澳新风暴套装卡牌\n• 至少 1 张限定或更高稀有度卡牌\n\n澳新风暴，KARDS 第 11 个大型扩展包，部署 88 张新卡，外加一系列预备回归卡牌。该扩展包聚焦太平洋战场，引入全新盟国阵营澳新军团。澳新风暴还新增了预报机制，让您能够驾驭太平洋多变气候，解锁强力天气卡牌，进而主导战场局势。同时，日苏两国也终于在本次扩展包迎来了专属研发卡牌。调整您的战术，探索强力组合，运用全新战略重塑战场。",
+                    "diamonds": 280,
+                    "discount": null,
+                    "endDate": null,
+                    "entitlementName": null,
+                    "fulfilAfter": null,
+                    "gold": null,
+                    "items": [
+                        {
+                            "data": {
+                                "cardCount": 5,
+                                "cardSet": "OceaniaStorm",
+                                "faction": null,
+                                "guaranteedGoldCards": 0,
+                                "itemType": "pack",
+                                "packId": null,
+                                "packIds": null,
+                                "rarityMin": {}
+                            },
+                            "qty": 20
+                        }
+                    ],
+                    "limit": null,
+                    "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/packs_20_oceania_storm_packs/oceaniastorm20.jpg",
+                    "offerId": 6846089,
+                    "offerName": "packs_20_oceania_storm_packs",
+                    "priority": null,
+                    "purchased": null,
+                    "real": null,
+                    "slotType": null,
+                    "slotValue": null,
+                    "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/",
+                    "startDate": null,
+                    "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/packs_20_oceania_storm_packs/oceaniastorm20.jpg",
+                    "timed": null,
+                    "title": "20 个澳新风暴卡包"
+                }
+            ],
+            "startDate": "2026-06-11T08:51:00"
+        },
+        {
+            "endDate": "2099-01-01T00:00:00",
+            "group": 4,
+            "groupId": 3887,
+            "hidden": null,
+            "offers": [
+                {
+                    "adContext": null,
+                    "bonus": null,
+                    "bonusItems": null,
+                    "checkoutId": null,
+                    "description": "每个卡包内含：\n• 5 张澳新风暴套装卡牌\n• 至少 1 张限定或更高稀有度卡牌\n\n澳新风暴，KARDS 第 11 个大型扩展包，部署 88 张新卡，外加一系列预备回归卡牌。该扩展包聚焦太平洋战场，引入全新盟国阵营澳新军团。澳新风暴还新增了预报机制，让您能够驾驭太平洋多变气候，解锁强力天气卡牌，进而主导战场局势。同时，日苏两国也终于在本次扩展包迎来了专属研发卡牌。调整您的战术，探索强力组合，运用全新战略重塑战场。",
+                    "diamonds": 98,
+                    "discount": null,
+                    "endDate": null,
+                    "entitlementName": null,
+                    "fulfilAfter": null,
+                    "gold": null,
+                    "items": [
+                        {
+                            "data": {
+                                "cardCount": 5,
+                                "cardSet": "OceaniaStorm",
+                                "faction": null,
+                                "guaranteedGoldCards": 0,
+                                "itemType": "pack",
+                                "packId": null,
+                                "packIds": null,
+                                "rarityMin": {}
+                            },
+                            "qty": 7
+                        }
+                    ],
+                    "limit": null,
+                    "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/packs_7_oceania_storm_packs/oceaniastorm7.jpg",
+                    "offerId": 6846095,
+                    "offerName": "packs_7_oceania_storm_packs",
+                    "priority": null,
+                    "purchased": null,
+                    "real": null,
+                    "slotType": null,
+                    "slotValue": null,
+                    "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/",
+                    "startDate": null,
+                    "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/packs_7_oceania_storm_packs/oceaniastorm7.jpg",
+                    "timed": null,
+                    "title": "7 个澳新风暴卡包"
+                }
+            ],
+            "startDate": "2026-06-11T08:51:00"
+        },
+        {
+            "endDate": "2099-01-01T00:00:00",
+            "group": 4,
+            "groupId": 3888,
+            "hidden": null,
+            "offers": [
+                {
+                    "adContext": null,
+                    "bonus": null,
+                    "bonusItems": null,
+                    "checkoutId": null,
+                    "description": "每个卡包内含：\n• 5 张澳新风暴套装卡牌\n• 至少 1 张限定或更高稀有度卡牌\n\n澳新风暴，KARDS 第 11 个大型扩展包，部署 88 张新卡，外加一系列预备回归卡牌。该扩展包聚焦太平洋战场，引入全新盟国阵营澳新军团。澳新风暴还新增了预报机制，让您能够驾驭太平洋多变气候，解锁强力天气卡牌，进而主导战场局势。同时，日苏两国也终于在本次扩展包迎来了专属研发卡牌。调整您的战术，探索强力组合，运用全新战略重塑战场。",
+                    "diamonds": 14,
+                    "discount": null,
+                    "endDate": null,
+                    "entitlementName": null,
+                    "fulfilAfter": null,
+                    "gold": 100,
+                    "items": [
+                        {
+                            "data": {
+                                "cardCount": 5,
+                                "cardSet": "OceaniaStorm",
+                                "faction": null,
+                                "guaranteedGoldCards": 0,
+                                "itemType": "pack",
+                                "packId": null,
+                                "packIds": null,
+                                "rarityMin": {}
+                            },
+                            "qty": 1
+                        }
+                    ],
+                    "limit": null,
+                    "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/packs_1_oceania_storm_pack/oceaniastorm1.jpg",
+                    "offerId": 6846096,
+                    "offerName": "packs_1_oceania_storm_pack",
+                    "priority": null,
+                    "purchased": null,
+                    "real": null,
+                    "slotType": null,
+                    "slotValue": null,
+                    "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/",
+                    "startDate": null,
+                    "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/packs_1_oceania_storm_pack/oceaniastormofficer20_v2.jpg",
+                    "timed": null,
+                    "title": "1 个澳新风暴卡包"
+                }
+            ],
+            "startDate": "2026-06-11T08:52:00"
+        },
+        {
+            "endDate": "2026-06-15T11:00:00",
+            "group": 1,
+            "groupId": 3889,
+            "hidden": null,
+            "offers": [
+                {
+                    "adContext": null,
+                    "bonus": null,
+                    "bonusItems": null,
+                    "checkoutId": null,
+                    "description": "获取澳新风暴高级版捆绑包，享受全新 KARDS 扩展包。本次优惠包含全新卡包（包括闪卡卡包）、表情、全新头像、澳新风暴卡背、互动式折边帽桌饰以及中立总部达尔文要塞。",
+                    "diamonds": 1200,
+                    "discount": null,
+                    "endDate": null,
+                    "entitlementName": null,
+                    "fulfilAfter": null,
+                    "gold": null,
+                    "items": [
+                        {
+                            "data": {
+                                "itemType": "prop",
+                                "name": "item_Slouch_hat"
+                            },
+                            "qty": 1
+                        },
+                        {
+                            "data": {
+                                "dust": null,
+                                "isGold": false,
+                                "itemType": "card",
+                                "name": "card_location_fortress_darwin_neutral"
+                            },
+                            "qty": 1
+                        },
+                        {
+                            "data": {
+                                "itemType": "cardback",
+                                "name": "cardback_oceania-storm_alt"
+                            },
+                            "qty": 1
+                        },
+                        {
+                            "data": {
+                                "itemType": "avatar",
+                                "name": "avatar_nzans"
+                            },
+                            "qty": 1
+                        },
+                        {
+                            "data": {
+                                "itemType": "emote",
+                                "name": "emote_feeling_under"
+                            },
+                            "qty": 1
+                        },
+                        {
+                            "data": {
+                                "cardCount": 7,
+                                "cardSet": "OceaniaStorm",
+                                "faction": null,
+                                "guaranteedGoldCards": 0,
+                                "itemType": "pack",
+                                "packId": null,
+                                "packIds": null,
+                                "rarityMin": {}
+                            },
+                            "qty": 25
+                        },
+                        {
+                            "data": {
+                                "cardCount": 5,
+                                "cardSet": "OceaniaStorm",
+                                "faction": null,
+                                "guaranteedGoldCards": 5,
+                                "itemType": "pack",
+                                "packId": null,
+                                "packIds": null,
+                                "rarityMin": {}
+                            },
+                            "qty": 10
+                        },
+                        {
+                            "data": {
+                                "cardCount": 5,
+                                "cardSet": "OceaniaStorm",
+                                "faction": null,
+                                "guaranteedGoldCards": 0,
+                                "itemType": "pack",
+                                "packId": null,
+                                "packIds": null,
+                                "rarityMin": {}
+                            },
+                            "qty": 10
+                        }
+                    ],
+                    "limit": 0,
+                    "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/offer_oceania_storm_premium/oceania_storm_premium_square_chinese.jpg",
+                    "offerId": 6846097,
+                    "offerName": "offer_oceania_storm_premium",
+                    "priority": 1,
+                    "purchased": true,
+                    "real": null,
+                    "slotType": "best_value",
+                    "slotValue": null,
+                    "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/offer_oceania_storm_premium/oceania_storm_premium_shop_chinese.jpg",
+                    "startDate": null,
+                    "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/offer_oceania_storm_premium/oceania_storm_premium_shop_chinese.jpg",
+                    "timed": null,
+                    "title": "澳新风暴高级版"
+                }
+            ],
+            "startDate": "2026-06-11T08:59:00"
+        },
+        {
+            "endDate": "2026-06-15T11:00:00",
+            "group": 1,
+            "groupId": 3891,
+            "hidden": null,
+            "offers": [
+                {
+                    "adContext": null,
+                    "bonus": null,
+                    "bonusItems": null,
+                    "checkoutId": null,
+                    "description": "获取澳新风暴特惠版，内含全新卡包，折边帽桌饰，可用于所有国家。",
                     "diamonds": 99,
                     "discount": null,
                     "endDate": null,
                     "entitlementName": null,
-                    "fulfilAfter": "2026-06-11T11:00:00",
+                    "fulfilAfter": null,
                     "gold": null,
-                    "items": [],
+                    "items": [
+                        {
+                            "data": {
+                                "itemType": "prop",
+                                "name": "item_Slouch_hat"
+                            },
+                            "qty": 1
+                        },
+                        {
+                            "data": {
+                                "cardCount": 7,
+                                "cardSet": "OceaniaStorm",
+                                "faction": null,
+                                "guaranteedGoldCards": 0,
+                                "itemType": "pack",
+                                "packId": null,
+                                "packIds": null,
+                                "rarityMin": {}
+                            },
+                            "qty": 1
+                        },
+                        {
+                            "data": {
+                                "cardCount": 5,
+                                "cardSet": "OceaniaStorm",
+                                "faction": null,
+                                "guaranteedGoldCards": 0,
+                                "itemType": "pack",
+                                "packId": null,
+                                "packIds": null,
+                                "rarityMin": {}
+                            },
+                            "qty": 3
+                        }
+                    ],
                     "limit": 0,
-                    "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/offer_oceania_storm_pre_sale_extra/oceaniastorm_presales_smallbundle_contentpopup-v3_comp.jpg",
-                    "offerId": 6842229,
-                    "offerName": "offer_oceania_storm_pre-sale_extra",
-                    "priority": 5,
+                    "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/offer_oceania_storm_special/oceania_storm_special_square.jpg",
+                    "offerId": 6846126,
+                    "offerName": "offer_oceania_storm_special",
+                    "priority": 2,
                     "purchased": null,
                     "real": null,
-                    "slotType": "discount",
-                    "slotValue": "23",
-                    "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/offer_oceania_storm_pre_sale_extra/oceaniastorm_presales_smallbundle_shop-v3_comp.jpg",
+                    "slotType": "new_content",
+                    "slotValue": null,
+                    "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/offer_oceania_storm_special/oceania_storm_special_shop.jpg",
                     "startDate": null,
-                    "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/offer_oceania_storm_pre_sale_extra/oceaniastorm_presales_smallbundle_shop-v3_comp.jpg",
+                    "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/offer_oceania_storm_special/oceania_storm_special_shop.jpg",
                     "timed": null,
-                    "title": "澳新风暴加售预购"
+                    "title": "澳新风暴特惠版"
                 }
             ],
-            "startDate": "2026-06-08T11:00:00"
+            "startDate": "2026-06-11T09:01:00"
         },
         {
-            "endDate": "2026-06-10T11:00:00",
-            "group": 2,
-            "groupId": 3737,
+            "endDate": "2026-06-15T11:00:00",
+            "group": 1,
+            "groupId": 3892,
             "hidden": null,
             "offers": [
                 {
@@ -1400,7 +1448,260 @@
                     "bonus": null,
                     "bonusItems": null,
                     "checkoutId": null,
-                    "description": "用守护和亡计粉碎敌人",
+                    "description": "入手澳新风暴必备版，内含全新卡包、澳新风暴卡背以及中立总部达尔文要塞。",
+                    "diamonds": 199,
+                    "discount": null,
+                    "endDate": null,
+                    "entitlementName": null,
+                    "fulfilAfter": null,
+                    "gold": null,
+                    "items": [
+                        {
+                            "data": {
+                                "itemType": "cardback",
+                                "name": "cardback_oceania-storm_alt"
+                            },
+                            "qty": 1
+                        },
+                        {
+                            "data": {
+                                "dust": null,
+                                "isGold": false,
+                                "itemType": "card",
+                                "name": "card_location_fortress_darwin_neutral"
+                            },
+                            "qty": 1
+                        },
+                        {
+                            "data": {
+                                "cardCount": 7,
+                                "cardSet": "OceaniaStorm",
+                                "faction": null,
+                                "guaranteedGoldCards": 0,
+                                "itemType": "pack",
+                                "packId": null,
+                                "packIds": null,
+                                "rarityMin": {}
+                            },
+                            "qty": 2
+                        },
+                        {
+                            "data": {
+                                "cardCount": 5,
+                                "cardSet": "OceaniaStorm",
+                                "faction": null,
+                                "guaranteedGoldCards": 0,
+                                "itemType": "pack",
+                                "packId": null,
+                                "packIds": null,
+                                "rarityMin": {}
+                            },
+                            "qty": 2
+                        }
+                    ],
+                    "limit": 0,
+                    "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/offer_oceania_storm_essentials/oceania_storm_essentials_square.jpg",
+                    "offerId": 6846128,
+                    "offerName": "offer_oceania_storm_essentials",
+                    "priority": 3,
+                    "purchased": null,
+                    "real": null,
+                    "slotType": "just_released",
+                    "slotValue": null,
+                    "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/",
+                    "startDate": null,
+                    "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/offer_oceania_storm_essentials/oceania_storm_essentials_shop.jpg",
+                    "timed": null,
+                    "title": "澳新风暴必备版"
+                }
+            ],
+            "startDate": "2026-06-11T09:06:00"
+        },
+        {
+            "endDate": "2026-06-15T11:00:00",
+            "group": 1,
+            "groupId": 3893,
+            "hidden": null,
+            "offers": [
+                {
+                    "adContext": null,
+                    "bonus": null,
+                    "bonusItems": null,
+                    "checkoutId": null,
+                    "description": "每个卡包内含：\n• 7 张澳新风暴套装卡牌\n• 至少 2 张限定或更高稀有度卡牌\n• 至少 1 张特殊或精英卡牌\n• 有几率掉落万能牌和闪卡\n\n澳新风暴，KARDS 第 11 个大型扩展包，部署 88 张新卡，外加一系列预备回归卡牌。该扩展包聚焦太平洋战场，引入全新盟国阵营澳新军团。澳新风暴还新增了预报机制，让您能够驾驭太平洋多变气候，解锁强力天气卡牌，进而主导战场局势。同时，日苏两国也终于在本次扩展包迎来了专属研发卡牌。调整您的战术，探索强力组合，运用全新战略重塑战场。",
+                    "diamonds": 1200,
+                    "discount": null,
+                    "endDate": null,
+                    "entitlementName": null,
+                    "fulfilAfter": null,
+                    "gold": null,
+                    "items": [
+                        {
+                            "data": {
+                                "cardCount": 7,
+                                "cardSet": "OceaniaStorm",
+                                "faction": null,
+                                "guaranteedGoldCards": 0,
+                                "itemType": "pack",
+                                "packId": null,
+                                "packIds": null,
+                                "rarityMin": {}
+                            },
+                            "qty": 30
+                        }
+                    ],
+                    "limit": 20,
+                    "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/offer_30_oceania_storm_officer_packs/oceaniastormofficer30.jpg",
+                    "offerId": 6846150,
+                    "offerName": "offer_30_oceania_storm_officer_packs",
+                    "priority": 5,
+                    "purchased": null,
+                    "real": null,
+                    "slotType": "just_released",
+                    "slotValue": null,
+                    "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/",
+                    "startDate": null,
+                    "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/offer_30_oceania_storm_officer_packs/oceaniastormofficer30.jpg",
+                    "timed": null,
+                    "title": "30 个澳新风暴军官卡包"
+                }
+            ],
+            "startDate": "2026-06-11T09:07:00"
+        },
+        {
+            "endDate": "2026-06-15T11:00:00",
+            "group": 1,
+            "groupId": 3894,
+            "hidden": null,
+            "offers": [
+                {
+                    "adContext": null,
+                    "bonus": null,
+                    "bonusItems": null,
+                    "checkoutId": null,
+                    "description": "拿下澳新风暴基础版捆绑包，内含全新卡包和“干嘛阴沉着脸？”表情，可用于所有国家。",
+                    "diamonds": 48,
+                    "discount": null,
+                    "endDate": null,
+                    "entitlementName": null,
+                    "fulfilAfter": null,
+                    "gold": null,
+                    "items": [
+                        {
+                            "data": {
+                                "itemType": "emote",
+                                "name": "emote_feeling_under"
+                            },
+                            "qty": 1
+                        },
+                        {
+                            "data": {
+                                "cardCount": 7,
+                                "cardSet": "OceaniaStorm",
+                                "faction": null,
+                                "guaranteedGoldCards": 0,
+                                "itemType": "pack",
+                                "packId": null,
+                                "packIds": null,
+                                "rarityMin": {}
+                            },
+                            "qty": 1
+                        },
+                        {
+                            "data": {
+                                "cardCount": 5,
+                                "cardSet": "OceaniaStorm",
+                                "faction": null,
+                                "guaranteedGoldCards": 0,
+                                "itemType": "pack",
+                                "packId": null,
+                                "packIds": null,
+                                "rarityMin": {}
+                            },
+                            "qty": 1
+                        }
+                    ],
+                    "limit": 0,
+                    "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/offer_oceania_storm_basic/oceania_storm_basic_square_chinese02.jpg",
+                    "offerId": 6846119,
+                    "offerName": "offer_oceania_storm_basic",
+                    "priority": 4,
+                    "purchased": null,
+                    "real": null,
+                    "slotType": "for_you",
+                    "slotValue": null,
+                    "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/offer_oceania_storm_basic/oceania_storm_basic_shop_chinese02.jpg",
+                    "startDate": null,
+                    "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/offer_oceania_storm_basic/oceania_storm_basic_shop_chinese02.jpg",
+                    "timed": null,
+                    "title": "澳新风暴基础版"
+                }
+            ],
+            "startDate": "2026-06-11T09:38:00"
+        },
+        {
+            "endDate": "2026-06-15T11:00:00",
+            "group": 1,
+            "groupId": 3895,
+            "hidden": null,
+            "offers": [
+                {
+                    "adContext": null,
+                    "bonus": null,
+                    "bonusItems": null,
+                    "checkoutId": null,
+                    "description": "每个卡包内含：\n• 5 张澳新风暴套装卡牌\n• 至少 1 张限定或更高稀有度卡牌\n\n澳新风暴，KARDS 第 11 个大型扩展包，部署 88 张新卡，外加一系列预备回归卡牌。该扩展包聚焦太平洋战场，引入全新盟国阵营澳新军团。澳新风暴还新增了预报机制，让您能够驾驭太平洋多变气候，解锁强力天气卡牌，进而主导战场局势。同时，日苏两国也终于在本次扩展包迎来了专属研发卡牌。调整您的战术，探索强力组合，运用全新战略重塑战场。",
+                    "diamonds": 399,
+                    "discount": null,
+                    "endDate": null,
+                    "entitlementName": null,
+                    "fulfilAfter": null,
+                    "gold": null,
+                    "items": [
+                        {
+                            "data": {
+                                "cardCount": 5,
+                                "cardSet": "OceaniaStorm",
+                                "faction": null,
+                                "guaranteedGoldCards": 0,
+                                "itemType": "pack",
+                                "packId": null,
+                                "packIds": null,
+                                "rarityMin": {}
+                            },
+                            "qty": 30
+                        }
+                    ],
+                    "limit": 100,
+                    "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/offer_30_oceania_storm_packs/oceaniastorm30.jpg",
+                    "offerId": 6846287,
+                    "offerName": "offer_30_oceania_storm_packs",
+                    "priority": null,
+                    "purchased": null,
+                    "real": null,
+                    "slotType": null,
+                    "slotValue": null,
+                    "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/offer_30_oceania_storm_packs/oceaniastorm30.jpg",
+                    "startDate": null,
+                    "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/offer_30_oceania_storm_packs/oceaniastorm30.jpg",
+                    "timed": null,
+                    "title": "30 个澳新风暴卡包"
+                }
+            ],
+            "startDate": "2026-06-11T11:00:00"
+        },
+        {
+            "endDate": "2026-06-12T11:00:00",
+            "group": 2,
+            "groupId": 3739,
+            "hidden": null,
+            "offers": [
+                {
+                    "adContext": null,
+                    "bonus": null,
+                    "bonusItems": null,
+                    "checkoutId": null,
+                    "description": "2025 秋季 版",
                     "diamonds": 350,
                     "discount": null,
                     "endDate": null,
@@ -1411,15 +1712,15 @@
                         {
                             "data": {
                                 "itemType": "deck",
-                                "name": "deck_japan_sacrificial_lambs"
+                                "name": "deck_japan_welcome_to_the_jungle"
                             },
                             "qty": 1
                         }
                     ],
                     "limit": null,
-                    "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/",
-                    "offerId": 6817870,
-                    "offerName": "deck_deck_japan_sacrificial_lambs",
+                    "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/deck_deck_japan_welcome_to_the_jungle/welcome_to_the_jungle_store-image.jpg",
+                    "offerId": 6801085,
+                    "offerName": "deck_deck_japan_welcome_to_the_jungle",
                     "priority": null,
                     "purchased": null,
                     "real": null,
@@ -1427,117 +1728,9 @@
                     "slotValue": null,
                     "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/",
                     "startDate": null,
-                    "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/deck_deck_japan_sacrificial_lambs/sacrificial-lambs_store.jpg",
+                    "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/deck_deck_japan_welcome_to_the_jungle/welcome_to_the_jungle_store-image.jpg",
                     "timed": null,
-                    "title": "替罪羊"
-                },
-                {
-                    "adContext": null,
-                    "bonus": null,
-                    "bonusItems": null,
-                    "checkoutId": null,
-                    "description": "使用此表情个性化您的战场通信。该宣告表情可用于任何国家。",
-                    "diamonds": 20,
-                    "discount": null,
-                    "endDate": null,
-                    "entitlementName": null,
-                    "fulfilAfter": null,
-                    "gold": null,
-                    "items": [
-                        {
-                            "data": {
-                                "itemType": "emote",
-                                "name": "emote_breakthrough"
-                            },
-                            "qty": 1
-                        }
-                    ],
-                    "limit": null,
-                    "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/",
-                    "offerId": 17184,
-                    "offerName": "emote_emote_breakthrough",
-                    "priority": null,
-                    "purchased": null,
-                    "real": null,
-                    "slotType": "",
-                    "slotValue": null,
-                    "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/",
-                    "startDate": null,
-                    "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/",
-                    "timed": null,
-                    "title": "突破！"
-                },
-                {
-                    "adContext": null,
-                    "bonus": null,
-                    "bonusItems": null,
-                    "checkoutId": null,
-                    "description": "战车第一联队隶属于战车第一师团，后者组建于伪满。该单位最初负责北方边境的防卫任务，并于 1944 年参与了一号作战。战争后期，这支久经战阵的联队被重新部署至日本本土，负责抵御预期中的盟军进攻。这款卡背可用于日本卡组。",
-                    "diamonds": 70,
-                    "discount": null,
-                    "endDate": null,
-                    "entitlementName": null,
-                    "fulfilAfter": null,
-                    "gold": null,
-                    "items": [
-                        {
-                            "data": {
-                                "itemType": "cardback",
-                                "name": "cardback_1st_tank_regiment"
-                            },
-                            "qty": 1
-                        }
-                    ],
-                    "limit": null,
-                    "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/cardback_cardback_1st_tank_regiment/cardback_1st_tank_regiment_1280x720.jpg",
-                    "offerId": 6787192,
-                    "offerName": "cardback_cardback_1st_tank_regiment",
-                    "priority": null,
-                    "purchased": null,
-                    "real": null,
-                    "slotType": "",
-                    "slotValue": null,
-                    "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/",
-                    "startDate": null,
-                    "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/cardback_cardback_1st_tank_regiment/cardback_1st_tank_regiment_1280x720.jpg",
-                    "timed": null,
-                    "title": "战车第一联队"
-                },
-                {
-                    "adContext": null,
-                    "bonus": null,
-                    "bonusItems": null,
-                    "checkoutId": null,
-                    "description": "使用这款特殊头像在战场上脱颖而出。",
-                    "diamonds": 70,
-                    "discount": null,
-                    "endDate": null,
-                    "entitlementName": null,
-                    "fulfilAfter": null,
-                    "gold": null,
-                    "items": [
-                        {
-                            "data": {
-                                "itemType": "avatar",
-                                "name": "avatar_la_decima"
-                            },
-                            "qty": 1
-                        }
-                    ],
-                    "limit": null,
-                    "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/avatar_avatar_la_decima/t_portrait_special_regia-marina.jpg",
-                    "offerId": 6790968,
-                    "offerName": "avatar_avatar_la_decima",
-                    "priority": null,
-                    "purchased": null,
-                    "real": null,
-                    "slotType": "",
-                    "slotValue": null,
-                    "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/",
-                    "startDate": null,
-                    "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/avatar_avatar_la_decima/t_portrait_special_regia-marina.jpg",
-                    "timed": null,
-                    "title": "意大利海军"
+                    "title": "欢迎来到丛林"
                 },
                 {
                     "adContext": null,
@@ -1545,7 +1738,7 @@
                     "bonusItems": null,
                     "checkoutId": null,
                     "description": "这是对现有卡牌的卡图更改，并非卡牌本身。仅会改变卡牌的视觉风格，其效果保持不变。",
-                    "diamonds": 90,
+                    "diamonds": 48,
                     "discount": null,
                     "endDate": null,
                     "entitlementName": null,
@@ -1555,15 +1748,15 @@
                         {
                             "data": {
                                 "itemType": "alt_art",
-                                "name": "alt_1_card_event_monty"
+                                "name": "alt_1_card_unit_swordfish"
                             },
                             "qty": 1
                         }
                     ],
                     "limit": null,
                     "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/",
-                    "offerId": 6783054,
-                    "offerName": "alt_art_alt_1_card_event_monty",
+                    "offerId": 17200,
+                    "offerName": "alt_art_alt_1_card_unit_swordfish",
                     "priority": null,
                     "purchased": null,
                     "real": null,
@@ -1573,15 +1766,15 @@
                     "startDate": null,
                     "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/",
                     "timed": null,
-                    "title": "蒙哥马利"
+                    "title": "剑鱼 Mk I"
                 },
                 {
                     "adContext": null,
                     "bonus": null,
                     "bonusItems": null,
                     "checkoutId": null,
-                    "description": "使用此总部来个性化您的战场，该总部会更改战场桌布。踏入沙漠前线，战胜沙漠之狐。该总部可用于英国卡组。",
-                    "diamonds": 100,
+                    "description": "使用这款精英头像定义您的领导力。",
+                    "diamonds": 290,
                     "discount": null,
                     "endDate": null,
                     "entitlementName": null,
@@ -1590,18 +1783,124 @@
                     "items": [
                         {
                             "data": {
-                                "dust": null,
-                                "isGold": null,
-                                "itemType": "card",
-                                "name": "card_location_tunis_city"
+                                "itemType": "avatar",
+                                "name": "avatar_folgore"
+                            },
+                            "qty": 1
+                        }
+                    ],
+                    "limit": null,
+                    "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/avatar_avatar_folgore/t_portrait_elite_folgore.jpg",
+                    "offerId": 6790694,
+                    "offerName": "avatar_avatar_folgore",
+                    "priority": null,
+                    "purchased": null,
+                    "real": null,
+                    "slotType": "",
+                    "slotValue": null,
+                    "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/",
+                    "startDate": null,
+                    "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/avatar_avatar_folgore/t_portrait_elite_folgore.jpg",
+                    "timed": null,
+                    "title": "雷电"
+                },
+                {
+                    "adContext": null,
+                    "bonus": null,
+                    "bonusItems": null,
+                    "checkoutId": null,
+                    "description": "第12航空队在第二次世界大战期间在美国成立，是火炬行动中的陆军航空队空中部队。该卡背可用于美国卡组。",
+                    "diamonds": 30,
+                    "discount": null,
+                    "endDate": null,
+                    "entitlementName": null,
+                    "fulfilAfter": null,
+                    "gold": null,
+                    "items": [
+                        {
+                            "data": {
+                                "itemType": "cardback",
+                                "name": "cardback_us_12th_airforce"
+                            },
+                            "qty": 1
+                        }
+                    ],
+                    "limit": null,
+                    "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/cardback_cardback_us_12th_airforce/cardback_12th_airforce.jpg",
+                    "offerId": 6695194,
+                    "offerName": "cardback_cardback_us_12th_airforce",
+                    "priority": null,
+                    "purchased": null,
+                    "real": null,
+                    "slotType": "",
+                    "slotValue": null,
+                    "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/",
+                    "startDate": null,
+                    "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/cardback_cardback_us_12th_airforce/cardback_12th_airforce.jpg",
+                    "timed": null,
+                    "title": "第12航空队"
+                },
+                {
+                    "adContext": null,
+                    "bonus": null,
+                    "bonusItems": null,
+                    "checkoutId": null,
+                    "description": "钢丝钳是二战中简单却又不可或缺的突击工具。士兵与工兵常在炮火之下，使用它们剪断铁丝网，从而打开防线缺口。它们体积小巧、便于携带，在进攻战壕、掩体和加固的防线时至关重要。这款桌饰可用于任何国家。",
+                    "diamonds": 48,
+                    "discount": null,
+                    "endDate": null,
+                    "entitlementName": null,
+                    "fulfilAfter": null,
+                    "gold": null,
+                    "items": [
+                        {
+                            "data": {
+                                "itemType": "prop",
+                                "name": "item_Wirecutter"
+                            },
+                            "qty": 1
+                        }
+                    ],
+                    "limit": null,
+                    "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/prop_item_Wirecutter/wirecutter_boarditem_shopimage_comp.jpg",
+                    "offerId": 6818475,
+                    "offerName": "prop_item_Wirecutter",
+                    "priority": null,
+                    "purchased": null,
+                    "real": null,
+                    "slotType": "",
+                    "slotValue": null,
+                    "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/",
+                    "startDate": null,
+                    "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/prop_item_Wirecutter/wirecutter_boarditem_shopimage_comp.jpg",
+                    "timed": null,
+                    "title": "钢丝钳"
+                },
+                {
+                    "adContext": null,
+                    "bonus": null,
+                    "bonusItems": null,
+                    "checkoutId": null,
+                    "description": "使用这款表情个性化您的战场通信。该宣告表情可用于苏联卡组。",
+                    "diamonds": 45,
+                    "discount": null,
+                    "endDate": null,
+                    "entitlementName": null,
+                    "fulfilAfter": null,
+                    "gold": null,
+                    "items": [
+                        {
+                            "data": {
+                                "itemType": "emote",
+                                "name": "emote_smoke_without_fire"
                             },
                             "qty": 1
                         }
                     ],
                     "limit": null,
                     "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/",
-                    "offerId": 16730,
-                    "offerName": "hq_card_location_tunis_city",
+                    "offerId": 6787190,
+                    "offerName": "emote_emote_smoke_without_fire",
                     "priority": null,
                     "purchased": null,
                     "real": null,
@@ -1611,15 +1910,15 @@
                     "startDate": null,
                     "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/",
                     "timed": null,
-                    "title": "突尼斯市"
+                    "title": "无风不起浪"
                 }
             ],
-            "startDate": "2026-06-09T11:00:00"
+            "startDate": "2026-06-11T11:00:00"
         },
         {
-            "endDate": "2026-06-10T11:00:00",
+            "endDate": "2026-06-12T11:00:00",
             "group": 3,
-            "groupId": 3707,
+            "groupId": 3709,
             "hidden": null,
             "offers": [
                 {
@@ -1640,17 +1939,17 @@
                                 "dust": null,
                                 "isGold": null,
                                 "itemType": "card",
-                                "name": "card_unit_89th_infantry"
+                                "name": "card_unit_121st_infantry_regiment"
                             },
                             "qty": 1
                         }
                     ],
                     "limit": null,
                     "mainImage": "",
-                    "offerId": 6703998,
-                    "offerName": "card_unit_89th_infantry",
+                    "offerId": 6776397,
+                    "offerName": "card_unit_121st_infantry_regiment",
                     "priority": null,
-                    "purchased": null,
+                    "purchased": true,
                     "real": null,
                     "slotType": null,
                     "slotValue": null,
@@ -1666,7 +1965,7 @@
                     "bonusItems": null,
                     "checkoutId": null,
                     "description": null,
-                    "diamonds": 2,
+                    "diamonds": null,
                     "discount": null,
                     "endDate": null,
                     "entitlementName": null,
@@ -1678,17 +1977,17 @@
                                 "dust": null,
                                 "isGold": null,
                                 "itemType": "card",
-                                "name": "card_event_plan_west"
+                                "name": "card_event_winter_war"
                             },
                             "qty": 1
                         }
                     ],
                     "limit": null,
                     "mainImage": "",
-                    "offerId": 6703994,
-                    "offerName": "card_event_plan_west",
+                    "offerId": 6771590,
+                    "offerName": "card_event_winter_war",
                     "priority": null,
-                    "purchased": null,
+                    "purchased": true,
                     "real": null,
                     "slotType": null,
                     "slotValue": null,
@@ -1704,7 +2003,7 @@
                     "bonusItems": null,
                     "checkoutId": null,
                     "description": null,
-                    "diamonds": 40,
+                    "diamonds": 8,
                     "discount": null,
                     "endDate": null,
                     "entitlementName": null,
@@ -1716,19 +2015,19 @@
                                 "dust": null,
                                 "isGold": null,
                                 "itemType": "card",
-                                "name": "card_unit_infantry_regiment_2"
+                                "name": "card_event_eagle_day"
                             },
                             "qty": 1
                         }
                     ],
                     "limit": null,
                     "mainImage": "",
-                    "offerId": 6838785,
-                    "offerName": "card_unit_infantry_regiment_2",
+                    "offerId": 6757788,
+                    "offerName": "card_event_eagle_day",
                     "priority": null,
                     "purchased": null,
                     "real": null,
-                    "slotType": "special",
+                    "slotType": null,
                     "slotValue": null,
                     "smallThumb": "",
                     "startDate": null,
@@ -1737,392 +2036,12 @@
                     "title": null
                 }
             ],
-            "startDate": "2026-06-09T11:00:00"
+            "startDate": "2026-06-11T11:00:00"
         },
         {
-            "endDate": "2026-06-11T11:00:00",
-            "group": 1,
-            "groupId": 3847,
-            "hidden": null,
-            "offers": [
-                {
-                    "adContext": null,
-                    "bonus": null,
-                    "bonusItems": null,
-                    "checkoutId": null,
-                    "description": "利用这次限时专属的跳岛战术优惠，扭转战局！",
-                    "diamonds": 115,
-                    "discount": null,
-                    "endDate": null,
-                    "entitlementName": null,
-                    "fulfilAfter": null,
-                    "gold": 830,
-                    "items": [
-                        {
-                            "data": {
-                                "cardCount": 7,
-                                "cardSet": "Core",
-                                "faction": null,
-                                "guaranteedGoldCards": 0,
-                                "itemType": "pack",
-                                "packId": null,
-                                "packIds": null,
-                                "rarityMin": {}
-                            },
-                            "qty": 1
-                        },
-                        {
-                            "data": {
-                                "cardCount": 5,
-                                "cardSet": "Active",
-                                "faction": "USA",
-                                "guaranteedGoldCards": 0,
-                                "itemType": "pack",
-                                "packId": null,
-                                "packIds": null,
-                                "rarityMin": {}
-                            },
-                            "qty": 1
-                        },
-                        {
-                            "data": {
-                                "cardCount": 5,
-                                "cardSet": "Active",
-                                "faction": "Japan",
-                                "guaranteedGoldCards": 0,
-                                "itemType": "pack",
-                                "packId": null,
-                                "packIds": null,
-                                "rarityMin": {}
-                            },
-                            "qty": 1
-                        },
-                        {
-                            "data": {
-                                "duration": 1,
-                                "itemType": "medkit"
-                            },
-                            "qty": 1
-                        },
-                        {
-                            "data": {
-                                "itemType": "draft"
-                            },
-                            "qty": 1
-                        },
-                        {
-                            "data": {
-                                "cardCount": 7,
-                                "cardSet": "Homefront",
-                                "faction": null,
-                                "guaranteedGoldCards": 0,
-                                "itemType": "pack",
-                                "packId": null,
-                                "packIds": null,
-                                "rarityMin": {}
-                            },
-                            "qty": 1
-                        }
-                    ],
-                    "limit": 2,
-                    "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/offer_island_hopping___basic/islandhopping-homefront-basic-contentpopup_comp.jpg",
-                    "offerId": 6790856,
-                    "offerName": "offer_island_hopping_-_basic",
-                    "priority": 4,
-                    "purchased": null,
-                    "real": null,
-                    "slotType": "starter_pack",
-                    "slotValue": null,
-                    "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/",
-                    "startDate": null,
-                    "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/offer_island_hopping___basic/islandhopping-homefront-basic-shop_comp.jpg",
-                    "timed": true,
-                    "title": "跳岛战术 - 基础礼包"
-                }
-            ],
-            "startDate": "2026-06-09T11:00:00"
-        },
-        {
-            "endDate": "2026-06-11T11:00:00",
-            "group": 1,
-            "groupId": 3849,
-            "hidden": null,
-            "offers": [
-                {
-                    "adContext": null,
-                    "bonus": null,
-                    "bonusItems": null,
-                    "checkoutId": null,
-                    "description": "利用这次限时专属的跳岛战术优惠，扭转战局！",
-                    "diamonds": 999,
-                    "discount": null,
-                    "endDate": null,
-                    "entitlementName": null,
-                    "fulfilAfter": null,
-                    "gold": null,
-                    "items": [
-                        {
-                            "data": {
-                                "cardCount": 7,
-                                "cardSet": "Core",
-                                "faction": null,
-                                "guaranteedGoldCards": 0,
-                                "itemType": "pack",
-                                "packId": null,
-                                "packIds": null,
-                                "rarityMin": {}
-                            },
-                            "qty": 6
-                        },
-                        {
-                            "data": {
-                                "cardCount": 7,
-                                "cardSet": "Active",
-                                "faction": "USA",
-                                "guaranteedGoldCards": 0,
-                                "itemType": "pack",
-                                "packId": null,
-                                "packIds": null,
-                                "rarityMin": {}
-                            },
-                            "qty": 6
-                        },
-                        {
-                            "data": {
-                                "cardCount": 7,
-                                "cardSet": "Active",
-                                "faction": "Japan",
-                                "guaranteedGoldCards": 0,
-                                "itemType": "pack",
-                                "packId": null,
-                                "packIds": null,
-                                "rarityMin": {}
-                            },
-                            "qty": 6
-                        },
-                        {
-                            "data": {
-                                "cardCount": 7,
-                                "cardSet": "Active",
-                                "faction": "Allies",
-                                "guaranteedGoldCards": 0,
-                                "itemType": "pack",
-                                "packId": null,
-                                "packIds": null,
-                                "rarityMin": {}
-                            },
-                            "qty": 6
-                        },
-                        {
-                            "data": {
-                                "duration": 7,
-                                "itemType": "medkit"
-                            },
-                            "qty": 1
-                        },
-                        {
-                            "data": {
-                                "itemType": "draft"
-                            },
-                            "qty": 4
-                        },
-                        {
-                            "data": {
-                                "cardCount": 7,
-                                "cardSet": "Homefront",
-                                "faction": null,
-                                "guaranteedGoldCards": 0,
-                                "itemType": "pack",
-                                "packId": null,
-                                "packIds": null,
-                                "rarityMin": {}
-                            },
-                            "qty": 6
-                        }
-                    ],
-                    "limit": 2,
-                    "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/offer_island_hopping___big_bundle/islandhopping-homefront-bigbundle-contentpopup_comp.jpg",
-                    "offerId": 6790852,
-                    "offerName": "offer_island_hopping_-_big_bundle",
-                    "priority": 2,
-                    "purchased": null,
-                    "real": null,
-                    "slotType": "best_value",
-                    "slotValue": null,
-                    "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/",
-                    "startDate": null,
-                    "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/offer_island_hopping___big_bundle/islandhopping-homefront-bigbundle-shop_comp.jpg",
-                    "timed": true,
-                    "title": "跳岛战术 - 超值礼包"
-                }
-            ],
-            "startDate": "2026-06-09T11:00:00"
-        },
-        {
-            "endDate": "2026-06-11T11:00:00",
-            "group": 1,
-            "groupId": 3848,
-            "hidden": null,
-            "offers": [
-                {
-                    "adContext": null,
-                    "bonus": null,
-                    "bonusItems": null,
-                    "checkoutId": null,
-                    "description": "利用这次限时专属的跳岛战术优惠，扭转战局！",
-                    "diamonds": 359,
-                    "discount": null,
-                    "endDate": null,
-                    "entitlementName": null,
-                    "fulfilAfter": null,
-                    "gold": null,
-                    "items": [
-                        {
-                            "data": {
-                                "cardCount": 7,
-                                "cardSet": "Core",
-                                "faction": null,
-                                "guaranteedGoldCards": 0,
-                                "itemType": "pack",
-                                "packId": null,
-                                "packIds": null,
-                                "rarityMin": {}
-                            },
-                            "qty": 2
-                        },
-                        {
-                            "data": {
-                                "cardCount": 7,
-                                "cardSet": "Active",
-                                "faction": "USA",
-                                "guaranteedGoldCards": 0,
-                                "itemType": "pack",
-                                "packId": null,
-                                "packIds": null,
-                                "rarityMin": {}
-                            },
-                            "qty": 2
-                        },
-                        {
-                            "data": {
-                                "cardCount": 7,
-                                "cardSet": "Active",
-                                "faction": "Japan",
-                                "guaranteedGoldCards": 0,
-                                "itemType": "pack",
-                                "packId": null,
-                                "packIds": null,
-                                "rarityMin": {}
-                            },
-                            "qty": 2
-                        },
-                        {
-                            "data": {
-                                "cardCount": 7,
-                                "cardSet": "Active",
-                                "faction": "Allies",
-                                "guaranteedGoldCards": 0,
-                                "itemType": "pack",
-                                "packId": null,
-                                "packIds": null,
-                                "rarityMin": {}
-                            },
-                            "qty": 2
-                        },
-                        {
-                            "data": {
-                                "duration": 3,
-                                "itemType": "medkit"
-                            },
-                            "qty": 1
-                        },
-                        {
-                            "data": {
-                                "itemType": "draft"
-                            },
-                            "qty": 2
-                        },
-                        {
-                            "data": {
-                                "cardCount": 7,
-                                "cardSet": "Homefront",
-                                "faction": null,
-                                "guaranteedGoldCards": 0,
-                                "itemType": "pack",
-                                "packId": null,
-                                "packIds": null,
-                                "rarityMin": {}
-                            },
-                            "qty": 2
-                        }
-                    ],
-                    "limit": 2,
-                    "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/offer_island_hopping___special/islandhopping-homefront-special-contentpopup_comp.jpg",
-                    "offerId": 6790853,
-                    "offerName": "offer_island_hopping_-_special",
-                    "priority": 3,
-                    "purchased": null,
-                    "real": null,
-                    "slotType": "most_popular",
-                    "slotValue": null,
-                    "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/",
-                    "startDate": null,
-                    "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/offer_island_hopping___special/islandhopping-homefront-special-shop_comp.jpg",
-                    "timed": true,
-                    "title": "跳岛战术 - 特别礼包"
-                }
-            ],
-            "startDate": "2026-06-09T11:00:00"
-        },
-        {
-            "endDate": "2026-06-11T11:00:00",
-            "group": 1,
-            "groupId": 3846,
-            "hidden": null,
-            "offers": [
-                {
-                    "adContext": null,
-                    "bonus": null,
-                    "bonusItems": null,
-                    "checkoutId": null,
-                    "description": "以一个三日医疗包的价格购买两个。可重复购买 10 次，优惠期间加紧储备医疗包。",
-                    "diamonds": 40,
-                    "discount": null,
-                    "endDate": null,
-                    "entitlementName": null,
-                    "fulfilAfter": null,
-                    "gold": null,
-                    "items": [
-                        {
-                            "data": {
-                                "duration": 3,
-                                "itemType": "medkit"
-                            },
-                            "qty": 2
-                        }
-                    ],
-                    "limit": 10,
-                    "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/offer_2_for_1__3_day_medkits/medkit_2for1.jpg",
-                    "offerId": 6819099,
-                    "offerName": "offer_2_for_1_-3_day_medkits",
-                    "priority": 7,
-                    "purchased": null,
-                    "real": null,
-                    "slotType": "discount",
-                    "slotValue": "50",
-                    "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/",
-                    "startDate": null,
-                    "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/offer_2_for_1__3_day_medkits/medkit_2for1.jpg",
-                    "timed": true,
-                    "title": "买一送一 - 三日医疗包"
-                }
-            ],
-            "startDate": "2026-06-09T11:00:00"
-        },
-        {
-            "endDate": "2026-06-11T11:00:00",
+            "endDate": "2026-06-13T11:00:00",
             "group": 2,
-            "groupId": 3738,
+            "groupId": 3740,
             "hidden": null,
             "offers": [
                 {
@@ -2130,7 +2049,79 @@
                     "bonus": null,
                     "bonusItems": null,
                     "checkoutId": null,
-                    "description": "爆铺协力和卫戍取胜",
+                    "description": null,
+                    "diamonds": 350,
+                    "discount": null,
+                    "endDate": null,
+                    "entitlementName": null,
+                    "fulfilAfter": null,
+                    "gold": null,
+                    "items": [
+                        {
+                            "data": {
+                                "itemType": "deck",
+                                "name": "deck_germany_old_boys"
+                            },
+                            "qty": 1
+                        }
+                    ],
+                    "limit": null,
+                    "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/deck_deck_germany_old_boys/old-boys_shop_image.jpg",
+                    "offerId": 6846302,
+                    "offerName": "deck_deck_germany_old_boys",
+                    "priority": null,
+                    "purchased": null,
+                    "real": null,
+                    "slotType": "",
+                    "slotValue": null,
+                    "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/deck_deck_germany_old_boys/old-boys_shop_image.jpg",
+                    "startDate": null,
+                    "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/deck_deck_germany_old_boys/old-boys_shop_image.jpg",
+                    "timed": null,
+                    "title": "老男孩"
+                },
+                {
+                    "adContext": null,
+                    "bonus": null,
+                    "bonusItems": null,
+                    "checkoutId": null,
+                    "description": null,
+                    "diamonds": 350,
+                    "discount": null,
+                    "endDate": null,
+                    "entitlementName": null,
+                    "fulfilAfter": null,
+                    "gold": null,
+                    "items": [
+                        {
+                            "data": {
+                                "itemType": "deck",
+                                "name": "deck_usa_its_raining_men"
+                            },
+                            "qty": 1
+                        }
+                    ],
+                    "limit": null,
+                    "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/deck_deck_usa_its_raining_men/its_raining_men_shop_image.jpg",
+                    "offerId": 6846303,
+                    "offerName": "deck_deck_usa_its_raining_men",
+                    "priority": null,
+                    "purchased": null,
+                    "real": null,
+                    "slotType": "",
+                    "slotValue": null,
+                    "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/deck_deck_usa_its_raining_men/its_raining_men_shop_image.jpg",
+                    "startDate": null,
+                    "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/deck_deck_usa_its_raining_men/its_raining_men_shop_image.jpg",
+                    "timed": null,
+                    "title": "天气之子"
+                },
+                {
+                    "adContext": null,
+                    "bonus": null,
+                    "bonusItems": null,
+                    "checkoutId": null,
+                    "description": null,
                     "diamonds": 200,
                     "discount": null,
                     "endDate": null,
@@ -2141,32 +2132,104 @@
                         {
                             "data": {
                                 "itemType": "deck",
-                                "name": "deck_britain_passive_aggression"
+                                "name": "deck_britain_fashionista"
                             },
                             "qty": 1
                         }
                     ],
                     "limit": null,
-                    "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/deck_deck_britain_passive_aggression/passive-aggression_storejpg.jpg",
-                    "offerId": 6817875,
-                    "offerName": "deck_deck_britain_passive_aggression",
+                    "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/deck_deck_britain_fashionista/fashionista_shop_image.jpg",
+                    "offerId": 6846307,
+                    "offerName": "deck_deck_britain_fashionista",
                     "priority": null,
                     "purchased": null,
                     "real": null,
                     "slotType": "",
                     "slotValue": null,
-                    "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/deck_deck_britain_passive_aggression/passive-aggression_storejpg.jpg",
+                    "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/deck_deck_britain_fashionista/fashionista_shop_image.jpg",
                     "startDate": null,
-                    "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/deck_deck_britain_passive_aggression/passive-aggression_storejpg.jpg",
+                    "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/deck_deck_britain_fashionista/fashionista_shop_image.jpg",
                     "timed": null,
-                    "title": "冷暴力"
+                    "title": "潮人"
                 },
                 {
                     "adContext": null,
                     "bonus": null,
                     "bonusItems": null,
                     "checkoutId": null,
-                    "description": "使用总部个性化您的战场，该总部会更改桌布。灵感来自碧瑶战役，日军在菲律宾战役的最后一次坦克战中抵御了盟军的进攻。该总部可用于日本卡组。",
+                    "description": null,
+                    "diamonds": 200,
+                    "discount": null,
+                    "endDate": null,
+                    "entitlementName": null,
+                    "fulfilAfter": null,
+                    "gold": null,
+                    "items": [
+                        {
+                            "data": {
+                                "itemType": "deck",
+                                "name": "deck_soviet_body_building"
+                            },
+                            "qty": 1
+                        }
+                    ],
+                    "limit": null,
+                    "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/deck_deck_soviet_body_building/bodybuilding_shop_image.jpg",
+                    "offerId": 6846313,
+                    "offerName": "deck_deck_soviet_body_building",
+                    "priority": null,
+                    "purchased": null,
+                    "real": null,
+                    "slotType": "",
+                    "slotValue": null,
+                    "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/deck_deck_soviet_body_building/bodybuilding_shop_image.jpg",
+                    "startDate": null,
+                    "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/deck_deck_soviet_body_building/bodybuilding_shop_image.jpg",
+                    "timed": null,
+                    "title": "健身"
+                },
+                {
+                    "adContext": null,
+                    "bonus": null,
+                    "bonusItems": null,
+                    "checkoutId": null,
+                    "description": null,
+                    "diamonds": 200,
+                    "discount": null,
+                    "endDate": null,
+                    "entitlementName": null,
+                    "fulfilAfter": null,
+                    "gold": null,
+                    "items": [
+                        {
+                            "data": {
+                                "itemType": "deck",
+                                "name": "deck_japan_money_laundering"
+                            },
+                            "qty": 1
+                        }
+                    ],
+                    "limit": null,
+                    "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/deck_deck_japan_money_laundering/money_laundering_shop_image.jpg",
+                    "offerId": 6846317,
+                    "offerName": "deck_deck_japan_money_laundering",
+                    "priority": null,
+                    "purchased": null,
+                    "real": null,
+                    "slotType": "",
+                    "slotValue": null,
+                    "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/deck_deck_japan_money_laundering/money_laundering_shop_image.jpg",
+                    "startDate": null,
+                    "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/deck_deck_japan_money_laundering/money_laundering_shop_image.jpg",
+                    "timed": null,
+                    "title": "洗钱"
+                },
+                {
+                    "adContext": null,
+                    "bonus": null,
+                    "bonusItems": null,
+                    "checkoutId": null,
+                    "description": "使用总部个性化您的战场，该总部会更改桌布。灵感来自维莱博卡日战役，该战役是德国和英国军队之间的一场坦克冲突。该总部可用于德国卡组。",
                     "diamonds": 200,
                     "discount": null,
                     "endDate": null,
@@ -2179,15 +2242,15 @@
                                 "dust": null,
                                 "isGold": null,
                                 "itemType": "card",
-                                "name": "card_location_baguio"
+                                "name": "card_location_villers_bocage"
                             },
                             "qty": 1
                         }
                     ],
                     "limit": null,
                     "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/",
-                    "offerId": 6790052,
-                    "offerName": "hq_card_location_baguio",
+                    "offerId": 6783061,
+                    "offerName": "hq_card_location_villers_bocage",
                     "priority": null,
                     "purchased": null,
                     "real": null,
@@ -2197,14 +2260,14 @@
                     "startDate": null,
                     "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/",
                     "timed": null,
-                    "title": "碧瑶"
+                    "title": "维莱博卡日"
                 },
                 {
                     "adContext": null,
                     "bonus": null,
                     "bonusItems": null,
                     "checkoutId": null,
-                    "description": "RG-41 是苏联在二战期间生产的一款破片手榴弹。它采用简易圆柱形金属外壳，装有 150 克炸药，重约 440 克。士兵可将其投掷 30 到 50 米远。其杀伤半径约为 5 米，更远范围内的弹片仍具有危险性。其生产仅从 1941 年持续至 1942 年，后被更简单的 RG-42 取代。",
+                    "description": "二战期间，德军的作战口粮主要围绕野战厨房制定，但士兵们也会携带应急军用口粮，以备前线无法供应热食时使用。完整的军用口粮通常包括硬饼干、腌肉、干菜或豌豆香肠、咖啡和盐，而份量较小的半定量口粮则只包含肉类和饼干。",
                     "diamonds": 100,
                     "discount": null,
                     "endDate": null,
@@ -2215,15 +2278,15 @@
                         {
                             "data": {
                                 "itemType": "prop",
-                                "name": "item_RG41"
+                                "name": "item_German_Combat_Rations"
                             },
                             "qty": 1
                         }
                     ],
                     "limit": null,
-                    "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/prop_item_RG41/rg-42-grenade_contentpopup_comp.jpg",
-                    "offerId": 6790044,
-                    "offerName": "prop_item_RG41",
+                    "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/prop_item_German_Combat_Rations/gercombatrations_boarditem_shopimage_comp.jpg",
+                    "offerId": 6840123,
+                    "offerName": "prop_item_German_Combat_Rations",
                     "priority": null,
                     "purchased": null,
                     "real": null,
@@ -2231,16 +2294,16 @@
                     "slotValue": null,
                     "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/",
                     "startDate": null,
-                    "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/prop_item_RG41/rg-42_grenade-offer-shopimage_comp.jpg",
+                    "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/prop_item_German_Combat_Rations/gercombatrations_boarditem_shopimage_comp.jpg",
                     "timed": null,
-                    "title": "RG-41 手榴弹"
+                    "title": "德国战斗口粮"
                 },
                 {
                     "adContext": null,
                     "bonus": null,
                     "bonusItems": null,
                     "checkoutId": null,
-                    "description": "第 87 步兵师成立于 1939 年，于 1940 年 6 月 14 日进入巴黎，是法国战役期间第一支进入该城的德国部队。该师最终在库尔兰口袋战役中投降，其服役生涯就此告终。此卡背可用于德国卡组。",
+                    "description": "自 1935 年至 1991 年，苏联元帅是苏联授予的最高军衔。只有 41 人获此殊荣。二战期间，这一军衔与朱可夫、科涅夫和罗科索夫斯基等指挥官密切相关，他们的胜利使其成为了苏联权威的有力象征。",
                     "diamonds": 70,
                     "discount": null,
                     "endDate": null,
@@ -2251,25 +2314,61 @@
                         {
                             "data": {
                                 "itemType": "cardback",
-                                "name": "cardback_87th_division"
+                                "name": "cardback_marshal"
                             },
                             "qty": 1
                         }
                     ],
                     "limit": null,
-                    "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/cardback_cardback_87th_division/87th_division_cardback_contentpopup.jpg",
-                    "offerId": 6798601,
-                    "offerName": "cardback_cardback_87th_division",
+                    "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/cardback_cardback_marshal/marshall_cardback_shopimage_comp.jpg",
+                    "offerId": 6794410,
+                    "offerName": "cardback_cardback_marshal",
                     "priority": null,
                     "purchased": null,
                     "real": null,
                     "slotType": "",
                     "slotValue": null,
-                    "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/cardback_cardback_87th_division/87th_division_cardback_shopimage.jpg",
+                    "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/",
                     "startDate": null,
-                    "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/cardback_cardback_87th_division/87th_division_cardback_shopimage.jpg",
+                    "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/cardback_cardback_marshal/marshall_cardback_shopimage_comp.jpg",
                     "timed": null,
-                    "title": "第 87 师"
+                    "title": "元帅"
+                },
+                {
+                    "adContext": null,
+                    "bonus": null,
+                    "bonusItems": null,
+                    "checkoutId": null,
+                    "description": "使用这款表情个性化您的战场通信。该结束表情可用于美国卡组。",
+                    "diamonds": 45,
+                    "discount": null,
+                    "endDate": null,
+                    "entitlementName": null,
+                    "fulfilAfter": null,
+                    "gold": null,
+                    "items": [
+                        {
+                            "data": {
+                                "itemType": "emote",
+                                "name": "emote_i_shall_return"
+                            },
+                            "qty": 1
+                        }
+                    ],
+                    "limit": null,
+                    "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/",
+                    "offerId": 6794414,
+                    "offerName": "emote_emote_i_shall_return",
+                    "priority": null,
+                    "purchased": null,
+                    "real": null,
+                    "slotType": "",
+                    "slotValue": null,
+                    "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/",
+                    "startDate": null,
+                    "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/",
+                    "timed": null,
+                    "title": "我会回来的"
                 },
                 {
                     "adContext": null,
@@ -2287,15 +2386,15 @@
                         {
                             "data": {
                                 "itemType": "alt_art",
-                                "name": "alt_1_card_event_death_from_above"
+                                "name": "alt_1_card_unit_5th_brigade"
                             },
                             "qty": 1
                         }
                     ],
                     "limit": null,
                     "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/",
-                    "offerId": 6773073,
-                    "offerName": "alt_art_alt_1_card_event_death_from_above",
+                    "offerId": 6792536,
+                    "offerName": "alt_art_alt_1_card_unit_5th_brigade",
                     "priority": null,
                     "purchased": null,
                     "real": null,
@@ -2305,51 +2404,15 @@
                     "startDate": null,
                     "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/",
                     "timed": null,
-                    "title": "死神降临"
-                },
-                {
-                    "adContext": null,
-                    "bonus": null,
-                    "bonusItems": null,
-                    "checkoutId": null,
-                    "description": "使用此表情个性化您的战场通信。该宣告表情可用于日本卡组。",
-                    "diamonds": 20,
-                    "discount": null,
-                    "endDate": null,
-                    "entitlementName": null,
-                    "fulfilAfter": null,
-                    "gold": null,
-                    "items": [
-                        {
-                            "data": {
-                                "itemType": "emote",
-                                "name": "emote_banzai"
-                            },
-                            "qty": 1
-                        }
-                    ],
-                    "limit": null,
-                    "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/",
-                    "offerId": 17179,
-                    "offerName": "emote_emote_banzai",
-                    "priority": null,
-                    "purchased": null,
-                    "real": null,
-                    "slotType": "",
-                    "slotValue": null,
-                    "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/",
-                    "startDate": null,
-                    "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/",
-                    "timed": null,
-                    "title": "万岁！"
+                    "title": "第 5 步兵旅"
                 }
             ],
-            "startDate": "2026-06-10T11:00:00"
+            "startDate": "2026-06-12T11:00:00"
         },
         {
-            "endDate": "2026-06-11T11:00:00",
+            "endDate": "2026-06-13T11:00:00",
             "group": 3,
-            "groupId": 3708,
+            "groupId": 3710,
             "hidden": null,
             "offers": [
                 {
@@ -2370,15 +2433,15 @@
                                 "dust": null,
                                 "isGold": null,
                                 "itemType": "card",
-                                "name": "card_unit_152e_regiment"
+                                "name": "card_event_anders_army"
                             },
                             "qty": 1
                         }
                     ],
                     "limit": null,
                     "mainImage": "",
-                    "offerId": 6781508,
-                    "offerName": "card_unit_152e_regiment",
+                    "offerId": 6846571,
+                    "offerName": "card_event_anders_army",
                     "priority": null,
                     "purchased": null,
                     "real": null,
@@ -2408,15 +2471,15 @@
                                 "dust": null,
                                 "isGold": null,
                                 "itemType": "card",
-                                "name": "card_event_orp_orzel"
+                                "name": "card_unit_3rd_morskoi_pekhoty"
                             },
                             "qty": 1
                         }
                     ],
                     "limit": null,
                     "mainImage": "",
-                    "offerId": 6693631,
-                    "offerName": "card_event_orp_orzel",
+                    "offerId": 6846572,
+                    "offerName": "card_unit_3rd_morskoi_pekhoty",
                     "priority": null,
                     "purchased": null,
                     "real": null,
@@ -2434,7 +2497,7 @@
                     "bonusItems": null,
                     "checkoutId": null,
                     "description": null,
-                    "diamonds": 8,
+                    "diamonds": 40,
                     "discount": null,
                     "endDate": null,
                     "entitlementName": null,
@@ -2446,20 +2509,20 @@
                                 "dust": null,
                                 "isGold": null,
                                 "itemType": "card",
-                                "name": "card_event_air_escort"
+                                "name": "card_event_colossus"
                             },
                             "qty": 1
                         }
                     ],
                     "limit": null,
                     "mainImage": "",
-                    "offerId": 6796108,
-                    "offerName": "card_event_air_escort",
+                    "offerId": 6846579,
+                    "offerName": "card_event_colossus",
                     "priority": null,
                     "purchased": null,
                     "real": null,
-                    "slotType": null,
-                    "slotValue": null,
+                    "slotType": "special",
+                    "slotValue": "",
                     "smallThumb": "",
                     "startDate": null,
                     "thumbnail": "",
@@ -2467,7 +2530,7 @@
                     "title": null
                 }
             ],
-            "startDate": "2026-06-10T11:00:00"
+            "startDate": "2026-06-12T11:00:00"
         },
         {
             "endDate": "2099-01-01T00:00:00",
@@ -2703,7 +2766,7 @@
             "startDate": "2018-01-01T00:00:00"
         }
     ],
-    "message": "Offers for 2026-06-10T02:00:50.104464",
+    "message": "Offers for 2026-06-12T09:39:12.178355",
     "status": 200,
-    "ts": 1781056850.104464
+    "ts": 1781257152.178355
 }
